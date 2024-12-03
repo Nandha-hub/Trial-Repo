@@ -29,7 +29,6 @@ public class EmployeeDetails {
 		boolean rsult=true;
 		System.out.println("All the Above Information are:"+rsult);
 		
-		System.out.println("Nanda Editied his code");
 		
 	}
 
